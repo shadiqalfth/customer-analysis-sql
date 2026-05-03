@@ -8,26 +8,26 @@ This project analyzes customer behavior using SQL and visualizes insights throug
 The dataset contains customer transaction data This dataset enables analysis of customer demographics, purchasing behavior, and transaction patterns.
 
 Tools Used :
-SQL (MySQL) for data cleaning and analysis
+SQL (MySQL) for data cleaning and analysis,
 Power BI for data visualization and dashboard creation
 
 Key Analysis :
-Top Spending Customers
-Category Performance
-Discount Impact on Spending
-Subscription vs Non-Subscription Behavior
-Age Segmentation Analysis
-Revenue by Age Group
-Loyal Customer Analysis
+Top Spending Customers,
+Category Performance,
+Discount Impact on Spending,
+Subscription vs Non-Subscription Behavior,
+Age Segmentation Analysis,
+Revenue by Age Group,
+Loyal Customer Analysis,
 
 Key Insights :
-Clothing is the top-performing category, generating the highest revenue.
-Discounts do not significantly increase customer spending.
-Subscription status has minimal impact on purchasing behavior.
-Younger customers show slightly higher average spending.
-Older customers contribute the highest total revenue.
-Revenue distribution is balanced across customers.
-Loyal customers generate consistently high revenue.
+Clothing is the top-performing category, generating the highest revenue,
+Discounts do not significantly increase customer spending,
+Subscription status has minimal impact on purchasing behavior,
+Younger customers show slightly higher average spending,
+Older customers contribute the highest total revenue,
+Revenue distribution is balanced across customers,
+Loyal customers generate consistently high revenue,
 
 
 
