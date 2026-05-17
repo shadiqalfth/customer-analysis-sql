@@ -1,4 +1,4 @@
-1. Apparel is the top-performing category, contributing the highest revenue and transaction volume—1,737 transactions—and generating $104,264 in revenue.
+1. Apparel is the top-performing category, contributing the highest revenue and transaction volume 1,737 transactions—and generating $104,264 in revenue.
 
 2. Discounts do not have a significant impact on customer spending, with an average spend of $59 for customers using discounts and $60 for those not using them, indicating limited effectiveness in increasing purchase value.
 
